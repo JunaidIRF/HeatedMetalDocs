@@ -4,7 +4,7 @@ icon: box-open
 
 # Installing Heated Metal
 
-First of all make sure you have Shadow Legacy downloaded. You can find information about downloading any season on [this page](https://faq.r6downloads.com/r6-operation-throwback-help-page/how-to-download) and make sure you are in the [Operation Throwback discord server](https://discord.gg/JGA9WPF4K8) for updates and for help of any old season. You can follow the given steps to install `Heated Metal` after you have the game downloaded.
+First of all make sure you have Shadow Legacy or Neon Dawn downloaded. You can find information about downloading any season on [this page](https://faq.r6downloads.com/r6-operation-throwback-help-page/how-to-download) and make sure you are in the [Operation Throwback discord server](https://r6downloads.com/discord) for updates and for help of any old season. You can follow the given steps to install `Heated Metal` after you have the game downloaded.
 
 ## Installing Heated Metal:
 
