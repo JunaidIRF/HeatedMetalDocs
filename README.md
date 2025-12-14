@@ -10,18 +10,18 @@ Welcome to Heated Metal Docs.
 
 You can find info about how to setup Heated Metal and use it here.
 
-[**Join Discord For Updates And Support**](https://discord.gg/JGA9WPF4K8)
+[**Join The Heated Metal Discord For Updates, Early Builds And Support**](https://discord.gg/7mR9VxBxWd)
 
 {% hint style="warning" %}
-NOTE: **ONLY SHADOW LEGACY IS SUPPORTED.**
+NOTE: **ONLY [OPERATION SHADOW LEGACY](https://github.com/DataCluster0/HeatedMetal/releases/0.2.3) AND [NEON DAWN](https://github.com/DataCluster0/HeatedMetal/releases/latest) ARE SUPPORTED.**
 {% endhint %}
 
 {% hint style="danger" %}
-NOTE: **MAKE SURE YOU HAVE ATLEAST MEDIUM TEXTURES BECAUSE LOW TEXTURES ARE NOT SUPPORTED.**
+NOTE ON OPERATION SHADOW LEGACY: **MAKE SURE YOU HAVE ATLEAST MEDIUM TEXTURES BECAUSE LOW TEXTURES ARE NOT SUPPORTED.**
 {% endhint %}
 
 {% hint style="info" %}
-H**eated Metal was not created by me; it was developed by `Zer0Bytes`.**
+**Heated Metal was not created by me; it was developed by `Zer0Bytes`.**
 {% endhint %}
 
 ### Jump right in:
